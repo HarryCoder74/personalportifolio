@@ -454,9 +454,7 @@ transform: scale(1.02);
         flex-direction: column;
         align-items: center;
     }
-    .services-container {
-        flex-direction: column; /* Stack services on smaller screens */
-    }
+     
 }
 @media (max-width: 480px) {
     
